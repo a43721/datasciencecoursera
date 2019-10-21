@@ -1,2 +1,3 @@
  second file in two-file test run
 overwriting the line in second_file.txt
+put a third line in this file from the remote copy.
