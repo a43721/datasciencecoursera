@@ -1,4 +1,0 @@
-first file in two-file test run
-
-added this line after this file was added with only the first line.
-
