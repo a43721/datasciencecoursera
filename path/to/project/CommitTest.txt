@@ -1,1 +1,2 @@
 test content for git tutorial
+added this line to check git status, checkout and fetch on 10/22
