@@ -1,1 +1,2 @@
 does this show up in git status on local master before fetch?
+added this line to test git status, checkout and fetch.
